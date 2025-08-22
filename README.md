@@ -128,12 +128,6 @@ HTML email templates are embedded in the code and can be customized for differen
 - Github: [Boboahmedino](https://github.com/Boboahmedino)
 - LinkedIn: [Olaneye Ahmed](https://www.linkedin.com/in/olaneye/)
 
-## 🙏 Acknowledgments
-
-- Tkinter community for GUI resources
-- PIL/Pillow team for image processing capabilities
-- Python community for extensive documentation
-
 ---
 
 ⭐ **Star this repo if you found it helpful!**
