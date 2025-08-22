@@ -125,7 +125,7 @@ HTML email templates are embedded in the code and can be customized for differen
 ## 👨‍💻 Developer
 
 **Olaneye Ahmed Oladapo**
-- LinkedIn: (https://www.linkedin.com/in/olaneye/)
+- LinkedIn: [Olaneye](https://www.linkedin.com/in/olaneye/)
 
 ## 🙏 Acknowledgments
 
