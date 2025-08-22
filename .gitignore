@@ -1,6 +1,0 @@
-# Uploaded user files & media
-uploads/
-system/
-
-# Environment / secrets
-.env
